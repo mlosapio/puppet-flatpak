@@ -14,7 +14,7 @@
     },
     {
       "name": "puppetlabs-apt",
-      "version_requirement": ">= 4.0.0 <= 8.1.0"
+      "version_requirement": ">= 4.0.0 <= 8.3.0"
     }
   ],
   "operatingsystem_support": [
